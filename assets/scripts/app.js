@@ -57,7 +57,7 @@ const Portfolio = function() {
 	function typeAnimation() {
 		Typed.new("#writing-text", {
 			strings: [
-				"am a Full-Stack Web Developer.", "love everything about code.", "solve problems."
+				"am currently learning how to code on Python", "love everything about code.", "am on my way to be a Python (Djang and Flask) developer."
 			],
 			// Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
 			stringsElement: null,
